@@ -24,3 +24,19 @@
  progress and history over time. Remember to regularly push your 
  commits to a remote repository using `git push` to keep a 
  backup and collaborate with others if needed.
+ 1016  ls
+ 1017  history
+ 1018  git add 
+ 1019  git add command.txt
+ 1020  git status
+ 1021  git add index.html
+ 1022  git status
+ 1023  git commit -m "First commit"
+ 1024  git status
+ 1025  git push
+ 1026  git status
+ 1027  git add command.txt
+ 1028  git status
+ 1029  git commit -m "my second commit after making some changes to file command.txt"
+ 1030  git push
+ 1031  history
