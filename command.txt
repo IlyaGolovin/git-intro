@@ -1,0 +1,17 @@
+  999  clear
+ 1000  ls
+ 1001  ls
+ 1002  cd acc-pt-b-class
+ 1003  ls
+ 1004  cd block3
+ 1005  ls
+ 1006  cd git-intro
+ 1007  ls
+ 1008  ls
+ 1009  code .
+ 1010  pwd
+ 1011  git status
+ 1012  git status
+ 1013  git status
+ 1014  history
+ history >> command.txt
