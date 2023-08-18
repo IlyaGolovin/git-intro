@@ -15,3 +15,12 @@
  1013  git status
  1014  history
  history >> command.txt
+
+ After making your first commit with the message "first commit," 
+ you can continue working on your project and make additional 
+ changes. You can use commands like `git add` to stage your 
+ changes and then `git commit` to create new commits with 
+ appropriate messages. This allows you to track your project's 
+ progress and history over time. Remember to regularly push your 
+ commits to a remote repository using `git push` to keep a 
+ backup and collaborate with others if needed.
