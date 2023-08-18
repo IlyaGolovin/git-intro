@@ -14,7 +14,7 @@
  1012  git status
  1013  git status
  1014  history
- history >> command.txt
+ history >> command.txt (to create a .txt file )
 
  After making your first commit with the message "first commit," 
  you can continue working on your project and make additional 
